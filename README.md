@@ -1,7 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghyun-34&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙇‍♂️ About Me
-    Hi, I'm Donghyun Kim. I'm majoring in software at Dankook University and have experienced various projects such as Android, server, machine learning, web programming, etc.
+    Hi, I'm Donghyun Kim. I'm majoring in software at Dankook University and 
+    have experienced various projects such as Android, server, machine learning, web programming, etc.
     Now I'm studying about the Spring Framework.
 
 ### 🌀 Languages
