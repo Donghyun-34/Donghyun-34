@@ -18,4 +18,4 @@
 [![Donghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donghyun-34)](https://github.com/Donghyun-34/github-readme-stats)
 
 ### 🏅Sovled.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akakak413})](https://solved.ac/profile/akakak413})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akakak413)](https://solved.ac/profile/akakak413)
